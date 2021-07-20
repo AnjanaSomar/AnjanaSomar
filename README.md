@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here's a little bit about me in a nut shell:
+Here's a little bit about me in a nutshell:
 
 :pencil2: Computer Science and Business Student <br/>
-🤔 Interested in created unparalleled customer experiences <br/>
+🤔 Interested in creating unparalleled customer experiences <br/>
 💬 Ask me about the lastest Netflix show I'm bingeing
