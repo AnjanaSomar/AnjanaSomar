@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Here's a little bit about me in a nutshell:
 
 :pencil2: Computer Science and Business Student <br/>
-🤔 Interested in creating unparalleled customer experiences <br/>
+🤔 Interested in leveraging tech to drive social impact <br/>
 💬 Ask me about the lastest Netflix show I'm bingeing
