@@ -1,4 +1,4 @@
-### Hey! Thanks for stopping by! 👋
+### Hey! Thanks for stopping by! 👋 <br/>
 
 <!--
 **AnjanaSomar/AnjanaSomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Here's a little bit about me in a nut shell:
 
-:pencil2: Computer Science and Business Student
-🤔 Interested in created unparalleled customer experiences
+:pencil2: Computer Science and Business Student <br/>
+🤔 Interested in created unparalleled customer experiences <br/>
 💬 Ask me about the lastest Netflix show I'm bingeing
